@@ -7,7 +7,7 @@ learn basic of python
 like loops , array , numpy why we use numphy , jumbling words randomly , random function and types of method.
 
 
-
+ 
 02-03-2020
 
 learn about > magic square in python
@@ -23,4 +23,28 @@ learn about > magic square in python
 2. cipher a secret code implementation.
 3. speech to text - no need  to write text by your hand.
 4. file handling in python  
-5. what are semiprimes number
+5. what are semiprimes number.
+6. tic tac toe implementation
+7. recursions function
+8. join function
+
+				week3
+1. snake and ladders implementation
+2. spiral traversing
+3. gps track the route
+
+				week 4
+1. lambda function
+2. file I/O
+3. os module in python
+4. Writing python output to the files
+5. modules used in pythons
+6. packages used and how to create a custom package
+ 
+
+				week5 and week 6
+
+1. numpy library and implement it
+2. image processing 
+3. anagrams 
+4. csv files and its uses 
